@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\Khoa\OneDrive\Máy tính\OpenGL_Code\GameSnake\Game.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake.cpp
+  Generating Code...
+  GameSnake.vcxproj -> C:\Users\Khoa\OneDrive\Máy tính\OpenGL_Code\x64\Debug\GameSnake.exe
